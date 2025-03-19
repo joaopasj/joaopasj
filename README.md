@@ -14,7 +14,7 @@
             src="https://skillicons.dev/icons?i=linkedin"
         />
     </a>
-  <a href="joao.araujo600b@gmail.com">
+  <a href="maldito:joao.araujo600b@gmail.com">
         <img 
             alt="Email" 
             title="Me mande um email" 
