@@ -4,7 +4,7 @@
     </a>
  <div>
      <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&width=435&lines=Hello,+I'm+João+Sousa.">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&width=435&lines=Greetings,+I'm+João+Sousa.">
  </div>   
 <p align="center">
     <a href="https://www.linkedin.com/in/joão-sousa-542733228/">
