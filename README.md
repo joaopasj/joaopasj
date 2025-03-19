@@ -52,7 +52,7 @@
 <h2 align="center">🌐 Techs</h2>
 <div align="center">
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/joaopasj">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,docker,vscode,idea,eclipse,windows,linux" />
   </a>
 </p>
