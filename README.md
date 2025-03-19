@@ -1,9 +1,10 @@
 <p align="center">
     <a href="https://github.com/joaopasj">
-        <img  
-            src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I3bnJwcTBja3pqaWxzcnhxcnZuemltcnh3bHVpNTRyZHNoaWF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif"
-        />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I3bnJwcTBja3pqaWxzcnhxcnZuemltcnh3bHVpNTRyZHNoaWF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif"/>
     </a>
+    
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&width=435&lines=Hello,+I'm+João+Sousa.">
+    
 <p align="center">
     <a href="https://www.linkedin.com/in/joão-sousa-542733228/">
         <img 
