@@ -21,6 +21,13 @@
             src="https://skillicons.dev/icons?i=gmail"
         />
     </a>
+    <a href="https://leetcode.com/u/Joapasj/">
+        <img 
+            alt="Leetcodel" 
+            title="Conheça meu LeetCode" 
+            src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-3028929.png?f=webp&w=256" width="48"
+        />
+    </a>
 </p>
 
 ###
