@@ -55,9 +55,9 @@ Me chamo João Sousa, tenho 21 anos e sou do Rio de Janeiro. Atualmente no quart
 
 <h2 align="left">📊 Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopasj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopasj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=joaopasj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopasj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopasj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=joaopasj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
 </div>
 
 ###
