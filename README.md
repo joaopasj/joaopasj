@@ -26,16 +26,19 @@
 ###
 
 <h2 align="center">👨🏻‍💻 About</h2>
-<img src="https://media.tenor.com/ghPPpJkDsaMAAAAM/java.gif">
-<p align="center">
-  - 🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> pela Unicarioca.
-</p>
-<p align="center">
-  - 🖥️ Desenvolvendo aplicações <b>backend</b> com foco na linguagem <b>Java</b>.
-</p>
-<p align="center">
-  - 🛠️ Buscando sempre aprimorar meus <b>conhecimentos</b> no vasto mundo da tecnologia.
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/ghPPpJkDsaMAAAAM/java.gif" width="250"/>
+    </td>
+    <td>
+      <p>- 🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> pela Unicarioca.</p>
+      <p>- 🖥️ Desenvolvendo aplicações <b>backend</b> com foco na linguagem <b>Java</b>.</p>
+      <p>- 🛠️ Buscando sempre aprimorar meus <b>conhecimentos</b> no vasto mundo da tecnologia.</p>
+    </td>
+  </tr>
+</table>
 
 ###
 
