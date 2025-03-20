@@ -18,8 +18,15 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joao.araujo600b@gmail.com" target="_blank">
         <img 
             alt="Email" 
-            title="Me mande um email" 
+            title="Me envie um email" 
             src="https://skillicons.dev/icons?i=gmail"
+        />
+    </a>
+    <a href="https://stackoverflow.com/users/30004806/joão-sousa">
+        <img 
+            alt="StackOverflow" 
+            title="Conheça meu StackOverflow" 
+            src="https://skillicons.dev/icons?i=stackoverflow"
         />
     </a>
     <a href="https://leetcode.com/u/Joapasj/">
