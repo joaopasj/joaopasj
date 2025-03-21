@@ -6,8 +6,8 @@
      <p align="left">
         <img src="https://www.cise.ufl.edu/~kcen/cis4930/assign5/assign5_files/spinning.gif" width="70"/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&width=435&lines=Greetings,+I'm+João+Sousa.">
- </div>   
-<p align="center">
+ </div> 
+ <h2 align="center">
     <a href="https://www.linkedin.com/in/joão-sousa-542733228/">
         <img 
             alt="Lindekin" 
@@ -43,7 +43,6 @@
             src="https://github.com/joaopasj/joaopasj/blob/main/Hackerrank.png" width="48"
         />
     </a>
-</p>
 
 ###
 
